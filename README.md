@@ -2,7 +2,7 @@
 
 A desktop scientific calculator with a graphical interface, built in Python using Tkinter. It handles everyday arithmetic and a wide range of advanced mathematical functions, and lets you switch between degrees and radians for trigonometry.
 
-![Scientific Calculator](screenshots/calculator.png)
+![Scientific Calculator](calculator.png)
 
 ## Features
 - **Basic operations:** addition, subtraction, multiplication, division, decimal numbers and +/- sign change
